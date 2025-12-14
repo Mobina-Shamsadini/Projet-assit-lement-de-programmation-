@@ -1,0 +1,193 @@
+192
+Afghanistan;Tehran;Brussels;Vilnius;Kabul;Bissau;4
+Albania;Majuro;Skopje;Tirana;Bratislava;Havana;3
+Algeria;Algiers;Gitega;Belgrade;Freetown;Bamako;1
+Andorra;Tripoli;Seoul;Port Vila;Andorra la Vella;Yaren;4
+Angola;Georgetown;Panama City;Mbabane;Luanda;New Delhi;4
+Argentina;Ljubljana;San Jose;Kingstown;Buenos Aires;Bucharest;4
+Armenia;Lisbon;St. George's;Beirut;Yerevan;Abu Dhabi;4
+Australia;Funafuti;Kyiv;Canberra;Port-au-Prince;Libreville;3
+Austria;Montevideo;Vienna;Panama City;Accra;Basseterre;2
+Azerbaijan;Baku;Ashgabat;Taipei;Kingston;Reykjavik;1
+Bahamas;Abuja;Nassau;Brasilia;Minsk;San Marino;2
+Bahrain;Tegucigalpa;Riyadh;Nouakchott;Manama;Ashgabat;4
+Bangladesh;Jerusalem;Cairo;Lusaka;Kuwait City;Dhaka;5
+Barbados;Malabo;Vienna;Caracas;Bridgetown;Paris;4
+Belarus;Kigali;Bucharest;Minsk;Amman;Jakarta;3
+Belgium;Damascus;Porto-Novo;Ulaanbaatar;Brussels;Bandar Seri Begawan;4
+Belize;Juba;Jerusalem;Tripoli;Abuja;Belmopan;5
+Benin;Basseterre;Kingston;Porto-Novo;Sofia;Sao Tome;3
+Bhutan;Chisinau;Thimphu;Seoul;Baku;Georgetown;2
+Bolivia;Sucre;Budapest;Bamako;Mbabane;Banjul;1
+Bosnia and Herzegovina;Tirana;Nassau;Dublin;Sarajevo;Juba;4
+Botswana;Lilongwe;Porto-Novo;Sucre;St. George's;Gaborone;5
+Brazil;Djibouti;Rabat;Praia;Brasilia;Vatican City;4
+Brunei;Vilnius;Skopje;Paris;Bandar Seri Begawan;Wellington;4
+Bulgaria;Yaren;Sofia;Sri Jayawardenepura Kotte;Sucre;Ottawa;2
+Burkina Faso;Amsterdam;Ottawa;Ulaanbaatar;Ouagadougou;Bandar Seri Begawan;4
+Burundi;Sarajevo;Gitega;Kuwait City;Tokyo;Dakar;2
+Cambodia;Funafuti;San Salvador;Phnom Penh;Nouakchott;Conakry;3
+Cameroon;Dodoma;Bangui;Yaounde;Seoul;Cairo;3
+Canada;Bandar Seri Begawan;Ottawa;Majuro;Bangkok;Doha;2
+Cape Verde;Port-au-Prince;Podgorica;Praia;Beijing;Sofia;3
+Central African Republic;Nicosia;Thimphu;Bangui;Windhoek;Caracas;3
+Chad;Amsterdam;Nicosia;Male;N'Djamena;Funafuti;4
+Chile;Kathmandu;Santiago;Vienna;Tbilisi;Kingstown;2
+China;Vilnius;Male;Gitega;Beijing;Montevideo;4
+Colombia;Bogota;Libreville;Baghdad;Praia;Tripoli;1
+Comoros;Tokyo;Moroni;Bangkok;Maputo;Guatemala City;2
+Congo;Brazzaville;Tbilisi;Sri Jayawardenepura Kotte;Sanaa;Tirana;1
+Costa Rica;Jerusalem;Lima;San Jose;Harare;Sri Jayawardenepura Kotte;3
+Croatia;Astana;Tirana;Zagreb;St. George's;Praia;3
+Cuba;Moroni;Caracas;Havana;Bucharest;Quito;3
+Cyprus;Nicosia;Lima;Manila;Accra;Buenos Aires;1
+Czech Republic;Port Louis;Naypyidaw;Prague;Riga;Sanaa;3
+Denmark;Yaren;Lilongwe;Copenhagen;Tbilisi;Kingston;3
+Djibouti;Ankara;Djibouti;Belgrade;Male;Luanda;2
+Dominica;Vaduz;Valletta;Roseau;Banjul;Naypyidaw;3
+Dominican Republic;Moroni;Phnom Penh;Taipei;Seoul;Santo Domingo;5
+Ecuador;Skopje;Nuku'alofa;Vientiane;Quito;Malabo;4
+Egypt;Madrid;Vaduz;Cairo;Djibouti;Vatican City;3
+El Salvador;Sofia;San Salvador;Mbabane;Berlin;Thimphu;2
+Equatorial Guinea;Ljubljana;Manila;Sucre;Palikir;Malabo;5
+Eritrea;Maputo;Belgrade;Pretoria;Brussels;Asmara;5
+Estonia;Tirana;Singapore;Lima;Ulaanbaatar;Tallinn;5
+Eswatini;Bissau;Antananarivo;Mbabane;Chisinau;Tehran;3
+Ethiopia;Quito;Addis Ababa;Helsinki;Bern;Accra;2
+Fiji;Montevideo;Suva;Brussels;Ljubljana;Accra;2
+Finland;Malabo;Bern;Washington;Lome;Helsinki;5
+France;Algiers;Bissau;Paris;Mbabane;Kingstown;3
+Gabon;Accra;Praia;Libreville;Monaco;Nassau;3
+Gambia;Mogadishu;Guatemala City;Manila;Gaborone;Banjul;5
+Georgia;Tbilisi;London;Ouagadougou;Dublin;Algiers;1
+Germany;Dodoma;Kyiv;Tbilisi;Jakarta;Berlin;5
+Ghana;San Marino;Suva;Porto-Novo;Accra;Athens;4
+Greece;Athens;Apia;Tripoli;Jakarta;Mexico City;1
+Grenada;San Marino;Islamabad;Reykjavik;St. George's;Monrovia;4
+Guatemala;Santiago;Addis Ababa;Andorra la Vella;Praia;Guatemala City;5
+Guinea;Port Louis;Bratislava;Kuala Lumpur;Gitega;Conakry;5
+Guinea-Bissau;Managua;San Marino;Bissau;Naypyidaw;Maputo;3
+Guyana;Ashgabat;Bogota;Georgetown;Tegucigalpa;Valletta;3
+Haiti;Buenos Aires;Jakarta;Santo Domingo;Port-au-Prince;Porto-Novo;4
+Honduras;Helsinki;Tashkent;Moroni;Tegucigalpa;Libreville;4
+Hungary;Dodoma;Wellington;Apia;San Jose;Budapest;5
+Iceland;Kuwait City;Phnom Penh;San Jose;Tarawa;Reykjavik;5
+India;Dodoma;Panama City;Port of Spain;Bandar Seri Begawan;New Delhi;5
+Indonesia;Kathmandu;Cairo;Phnom Penh;Jakarta;Tripoli;4
+Iran;Nouakchott;Bogota;Zagreb;Canberra;Tehran;5
+Iraq;Ankara;Yaren;Mbabane;Baghdad;Belmopan;4
+Ireland;Singapore;Majuro;Amsterdam;Dublin;Tirana;4
+Israel;Hanoi;Jerusalem;Port Louis;Minsk;Muscat;2
+Italy;Rome;Riyadh;Dodoma;Prague;Majuro;1
+Jamaica;Bissau;Kingston;New Delhi;Pretoria;Bratislava;2
+Japan;Brazzaville;Juba;Tokyo;Podgorica;Kingston;3
+Jordan;Islamabad;Monaco;Amman;Majuro;Montevideo;3
+Kazakhstan;Vatican City;Astana;Riyadh;Nicosia;Tehran;2
+Kenya;Tirana;Minsk;Amsterdam;Montevideo;Nairobi;5
+Kiribati;Mogadishu;Guatemala City;Gitega;Naypyidaw;Tarawa;5
+Kuwait;Kigali;Canberra;Nassau;Kuwait City;Bangui;4
+Kyrgyzstan;Vilnius;Bangkok;Kabul;Bishkek;Nicosia;4
+Laos;Taipei;Nicosia;Ouagadougou;Tehran;Vientiane;5
+Latvia;Ljubljana;Port Vila;Riga;Athens;Mogadishu;3
+Lebanon;Bucharest;Suva;Vienna;Beirut;San Jose;4
+Lesotho;Sanaa;Havana;Nouakchott;Maseru;Athens;4
+Liberia;Mbabane;Copenhagen;Kathmandu;Monrovia;Port Louis;4
+Libya;Tripoli;Maputo;Bern;Vilnius;Damascus;1
+Liechtenstein;Tehran;Sucre;Bissau;Djibouti;Vaduz;5
+Lithuania;Vilnius;Port Vila;Jerusalem;Tokyo;Riga;1
+Luxembourg;Port-au-Prince;Malabo;Montevideo;Tunis;Luxembourg;5
+Madagascar;Cairo;Rabat;Sri Jayawardenepura Kotte;Antananarivo;Riga;4
+Malawi;Harare;Doha;Lilongwe;Riyadh;Santo Domingo;3
+Malaysia;Malabo;Islamabad;Kuala Lumpur;Zagreb;Lome;3
+Maldives;Caracas;Tunis;Port Vila;Male;Vilnius;4
+Mali;Warsaw;Brussels;Victoria;Bamako;Gaborone;4
+Malta;Tbilisi;Nouakchott;Ottawa;Conakry;Valletta;5
+Marshall Islands;Majuro;Paramaribo;Sanaa;Asuncion;Oslo;1
+Mauritania;Nouakchott;Tehran;Buenos Aires;Nicosia;Andorra la Vella;1
+Mauritius;Port Louis;Libreville;Kingstown;Vaduz;Thimphu;1
+Mexico;Skopje;Manama;Mexico City;San Salvador;Paris;3
+Micronesia;Palikir;Madrid;Amsterdam;Suva;Porto-Novo;1
+Moldova;Chisinau;Port of Spain;St. George's;New Delhi;Tbilisi;1
+Monaco;Harare;Tallinn;Gitega;Monaco;Lisbon;4
+Mongolia;Podgorica;Banjul;Amman;Ulaanbaatar;Monaco;4
+Montenegro;Madrid;Jerusalem;Juba;Podgorica;Gitega;4
+Morocco;Ljubljana;Tbilisi;Rabat;Port of Spain;Prague;3
+Mozambique;Montevideo;Gitega;Beirut;Vatican City;Maputo;5
+Myanmar;Funafuti;Canberra;Luxembourg;Naypyidaw;Yerevan;4
+Namibia;Seoul;Windhoek;Baghdad;Paris;Montevideo;2
+Nauru;Tunis;Stockholm;Ashgabat;Apia;Yaren;5
+Nepal;Kathmandu;Buenos Aires;Taipei;San Salvador;Suva;1
+Netherlands;Sri Jayawardenepura Kotte;Paramaribo;Antananarivo;Amsterdam;Stockholm;4
+New Zealand;Gaborone;Tashkent;Wellington;Phnom Penh;Washington;3
+Nicaragua;Kabul;Victoria;Belmopan;New Delhi;Managua;5
+Niger;Dhaka;Tarawa;Antananarivo;Lisbon;Niamey;5
+Nigeria;Niamey;Bratislava;Singapore;Abuja;Sri Jayawardenepura Kotte;4
+North Korea;Bangkok;Port-au-Prince;Pyongyang;Beijing;Berlin;3
+North Macedonia;Dili;Vienna;Skopje;Pyongyang;Naypyidaw;3
+Norway;Manama;Majuro;Oslo;Vilnius;San Salvador;3
+Oman;Nuku'alofa;Kabul;Vienna;Muscat;Panama City;4
+Pakistan;Vatican City;Beirut;Port-au-Prince;Islamabad;Sarajevo;4
+Palau;Ngerulmud;Skopje;Abuja;Lima;Baku;1
+Panama;Chisinau;Panama City;Jerusalem;Guatemala City;Niamey;2
+Papua New Guinea;Tarawa;Port Moresby;Wellington;Yaounde;Astana;2
+Paraguay;Kuala Lumpur;Asuncion;Moroni;Lima;Harare;2
+Peru;Lima;Bandar Seri Begawan;Podgorica;Pyongyang;Chisinau;1
+Philippines;Vienna;Manila;Tirana;Yaren;Accra;2
+Poland;Brasilia;Warsaw;Accra;Madrid;Andorra la Vella;2
+Portugal;Lome;Lisbon;Dodoma;Thimphu;N'Djamena;2
+Qatar;Pyongyang;Doha;Bratislava;Kingstown;Helsinki;2
+Romania;Vilnius;Sao Tome;Baghdad;Bucharest;Vientiane;4
+Russia;Ulaanbaatar;Bucharest;Castries;Juba;Moscow;5
+Rwanda;Tokyo;Algiers;Kigali;Managua;Tirana;3
+Saint Kitts and Nevis;Victoria;Accra;Maputo;Sri Jayawardenepura Kotte;Basseterre;5
+Saint Lucia;Castries;Riga;Vaduz;St. George's;Dodoma;1
+Saint Vincent and the Grenadines;Mexico City;Montevideo;Bucharest;Phnom Penh;Kingstown;5
+Samoa;Buenos Aires;San Jose;Abuja;Vilnius;Apia;5
+San Marino;Bangkok;San Marino;Damascus;Sarajevo;Tehran;2
+Sao Tome and Principe;Port Vila;Bratislava;Valletta;Sao Tome;Bishkek;4
+Saudi Arabia;Accra;Lima;Taipei;Riyadh;Basseterre;4
+Senegal;Oslo;Malabo;Dakar;Stockholm;Bissau;3
+Serbia;Belgrade;Phnom Penh;Gitega;Conakry;Brussels;1
+Seychelles;Bangui;Gaborone;Juba;Yaren;Victoria;5
+Sierra Leone;Vatican City;Canberra;Freetown;Beijing;Tarawa;3
+Singapore;Vienna;Baghdad;Montevideo;Port Louis;Singapore;5
+Slovakia;Pretoria;St. George's;Taipei;Bratislava;Ashgabat;4
+Slovenia;Ljubljana;Dakar;Bucharest;Sucre;Accra;1
+Solomon Islands;Dili;Prague;Honiara;Ljubljana;Caracas;3
+Somalia;Vilnius;Mogadishu;Dublin;Bratislava;Kuala Lumpur;2
+South Africa;Sucre;Mbabane;Brasilia;Pretoria;Brazzaville;4
+South Korea;Nouakchott;Belgrade;Nairobi;Lisbon;Seoul;5
+South Sudan;Sri Jayawardenepura Kotte;Luanda;Seoul;Sao Tome;Juba;5
+Spain;Niamey;Singapore;Madrid;Kampala;Monaco;3
+Sri Lanka;Dodoma;Sri Jayawardenepura Kotte;Brasilia;New Delhi;Apia;2
+Sudan;Santo Domingo;Tehran;Port Vila;Beirut;Khartoum;5
+Suriname;Port of Spain;Paramaribo;Skopje;Vilnius;Pyongyang;2
+Sweden;Manama;Stockholm;Kingston;Buenos Aires;Porto-Novo;2
+Switzerland;Ottawa;Funafuti;Manama;Bern;Pyongyang;4
+Syria;Cairo;Damascus;Abu Dhabi;Prague;Manama;2
+Taiwan;Cairo;Accra;Male;Tashkent;Taipei;5
+Tajikistan;Naypyidaw;Tirana;Vientiane;Madrid;Dushanbe;5
+Tanzania;Hanoi;Nassau;Brussels;Havana;Dodoma;5
+Thailand;Riga;Bangkok;Bissau;Vientiane;Minsk;2
+Timor-Leste;Dili;Asuncion;Kingstown;Niamey;Quito;1
+Togo;Seoul;Nassau;Lome;Bangkok;Conakry;3
+Tonga;Roseau;Monrovia;Nuku'alofa;Kabul;Palikir;3
+Trinidad and Tobago;Minsk;Malabo;San Jose;Yaren;Port of Spain;5
+Tunisia;Funafuti;Stockholm;Tunis;Basseterre;Bissau;3
+Turkey;Ankara;Nuku'alofa;Lima;Vatican City;Panama City;1
+Turkmenistan;Ashgabat;Kuwait City;Antananarivo;Georgetown;Wellington;1
+Tuvalu;Funafuti;Oslo;Majuro;Washington;Nicosia;1
+Uganda;Sanaa;Kampala;Bogota;Nicosia;Abuja;2
+Ukraine;Yaren;Seoul;Port-au-Prince;Nairobi;Kyiv;5
+United Arab Emirates;Oslo;Doha;Apia;Abu Dhabi;Manila;4
+United Kingdom;Bangkok;London;Vilnius;Lilongwe;Monaco;2
+United States;Vienna;Washington;Montevideo;Warsaw;Asuncion;2
+Uruguay;Cairo;Montevideo;Stockholm;Andorra la Vella;Tripoli;2
+Uzbekistan;Tehran;Nairobi;Tunis;Tashkent;Kingston;4
+Vanuatu;Lisbon;Lome;Port Vila;Ljubljana;Djibouti;3
+Vatican City;London;Riyadh;Bern;Vatican City;Amman;4
+Venezuela;Caracas;Dili;Banjul;Skopje;Nicosia;1
+Vietnam;Hanoi;Windhoek;Havana;Kathmandu;Brussels;1
+Yemen;Sanaa;San Jose;Stockholm;Nouakchott;Tehran;1
+Zambia;Antananarivo;Lusaka;Bangui;Port of Spain;Montevideo;2
+Zimbabwe;Mbabane;Gaborone;Harare;Tirana;Apia;3
